@@ -1,0 +1,3 @@
+# SendMail
+
+Developed a simple Email Sender Application using Spring Boot and Java Mail Sender Library....
